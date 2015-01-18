@@ -1,3 +1,0 @@
-ASUS
-Gigabyte
-MSI
