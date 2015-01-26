@@ -1,0 +1,11 @@
+BIOS stands for Basic input/output devices.
+
+Bios is a chip located on all motherboards that contain instructions and setup for how your system should operate. It is located on the ROM chip that comes with the computer. 
+
+It contains instructions to load basic hardware for the computer 
+If a computer does not pass a POST test, the computer will give a warning of some sort, this may include a pop up.
+When you turn on your computer, the microprocessor passes control to the BIOS program, which is located at the same place.
+
+When the BIOS starts up your computer, it first determines whether all of the attachments are in place and operational and then it loads the operating system into your computer's random access memory from your hard disk.
+It can act as a diagnostic tool to check how the hardware performs.
+Updating your BIOS is known as “flashing”. Flashing it means to update it with a new program. You shouldn’t do it unless you need to do so in order to fix something. If the  power goes out while flashing, you can be left with an unbootable computer.
