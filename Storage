@@ -1,0 +1,7 @@
+The hard drive stores all software and data saved to it. The purpose of a hard drive is to store data permanently and to be accessible when using the system.
+
+What is the difference between the master and slave hard drive configuration? How is the hard drive configured to master or slave?
+
+The purpose of using master and slave drives is that it allows for two dives on the same cable.
+
+A master drive is the main bootable drive, this is plugged directly into the IDE cable from the motherboard. The most common way a master and slave configuration is used is to use a Solid State Drive (SSD) as the master drive, and the Hard Disk Drive (HDD) as a slave drive.
